@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/alex sound affect.wav-10897b63cd0b4b9cb1b5be11f77e83bc.sample"
+
+[deps]
+
+source_file="res://assets/alex sound affect.wav"
+dest_files=[ "res://.import/alex sound affect.wav-10897b63cd0b4b9cb1b5be11f77e83bc.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

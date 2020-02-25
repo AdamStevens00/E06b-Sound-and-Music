@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/yeet sound affect.wav-36cfe525c5bb85268ef5f7cd062f6b09.sample"
+
+[deps]
+
+source_file="res://assets/yeet sound affect.wav"
+dest_files=[ "res://.import/yeet sound affect.wav-36cfe525c5bb85268ef5f7cd062f6b09.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
